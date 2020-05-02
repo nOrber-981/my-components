@@ -1,0 +1,1 @@
+Teljes képernyős header
