@@ -1,0 +1,1 @@
+Reszponzív, de egyszerű menü
